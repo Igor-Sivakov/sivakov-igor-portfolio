@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/sivakov-igor-portfolio/static/css/main.029684d1.css",
-    "main.js": "/sivakov-igor-portfolio/static/js/main.92394a27.js",
+    "main.css": "/sivakov-igor-portfolio/static/css/main.73c7bf8e.css",
+    "main.js": "/sivakov-igor-portfolio/static/js/main.4d1b0e4d.js",
     "static/media/landing-bootstrap.png": "/sivakov-igor-portfolio/static/media/landing-bootstrap.67c77156165dffdc71c6.png",
     "static/media/about.png": "/sivakov-igor-portfolio/static/media/about.f68266dbbd8814233d1c.png",
     "static/media/ecommerce-project.png": "/sivakov-igor-portfolio/static/media/ecommerce-project.bcd99c5c87c99f3597f9.png",
@@ -37,11 +37,11 @@
     "static/media/react.png": "/sivakov-igor-portfolio/static/media/react.42c9a5c7c5e98758506f.png",
     "static/media/formik.png": "/sivakov-igor-portfolio/static/media/formik.b15b4770c8f229284ab3.png",
     "index.html": "/sivakov-igor-portfolio/index.html",
-    "main.029684d1.css.map": "/sivakov-igor-portfolio/static/css/main.029684d1.css.map",
-    "main.92394a27.js.map": "/sivakov-igor-portfolio/static/js/main.92394a27.js.map"
+    "main.73c7bf8e.css.map": "/sivakov-igor-portfolio/static/css/main.73c7bf8e.css.map",
+    "main.4d1b0e4d.js.map": "/sivakov-igor-portfolio/static/js/main.4d1b0e4d.js.map"
   },
   "entrypoints": [
-    "static/css/main.029684d1.css",
-    "static/js/main.92394a27.js"
+    "static/css/main.73c7bf8e.css",
+    "static/js/main.4d1b0e4d.js"
   ]
 }
