@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/sivakov-igor-portfolio/static/css/main.73c7bf8e.css",
-    "main.js": "/sivakov-igor-portfolio/static/js/main.8181397c.js",
+    "main.css": "/sivakov-igor-portfolio/static/css/main.89c1462c.css",
+    "main.js": "/sivakov-igor-portfolio/static/js/main.8f5299f6.js",
     "static/media/landing-bootstrap.png": "/sivakov-igor-portfolio/static/media/landing-bootstrap.67c77156165dffdc71c6.png",
     "static/media/about.png": "/sivakov-igor-portfolio/static/media/about.f68266dbbd8814233d1c.png",
     "static/media/ecommerce-project.png": "/sivakov-igor-portfolio/static/media/ecommerce-project.bcd99c5c87c99f3597f9.png",
@@ -13,6 +13,7 @@
     "static/media/mogo.png": "/sivakov-igor-portfolio/static/media/mogo.ae61f3181461ec92d69e.png",
     "static/media/blog-mern.png": "/sivakov-igor-portfolio/static/media/blog-mern.a81b65bd3f7d64e9de6b.png",
     "static/media/success.gif": "/sivakov-igor-portfolio/static/media/success.806658f8e13dda9fda00.gif",
+    "static/media/plugin.png": "/sivakov-igor-portfolio/static/media/plugin.6101517f6fee51f31459.png",
     "static/media/todo-list.png": "/sivakov-igor-portfolio/static/media/todo-list.b24ea4f7c7373a15fe09.png",
     "static/media/postgresql.png": "/sivakov-igor-portfolio/static/media/postgresql.6f4e2758bd3976ee5869.png",
     "static/media/flux.jpeg": "/sivakov-igor-portfolio/static/media/flux.0ca9158972d072979eb7.jpeg",
@@ -37,11 +38,11 @@
     "static/media/react.png": "/sivakov-igor-portfolio/static/media/react.42c9a5c7c5e98758506f.png",
     "static/media/formik.png": "/sivakov-igor-portfolio/static/media/formik.b15b4770c8f229284ab3.png",
     "index.html": "/sivakov-igor-portfolio/index.html",
-    "main.73c7bf8e.css.map": "/sivakov-igor-portfolio/static/css/main.73c7bf8e.css.map",
-    "main.8181397c.js.map": "/sivakov-igor-portfolio/static/js/main.8181397c.js.map"
+    "main.89c1462c.css.map": "/sivakov-igor-portfolio/static/css/main.89c1462c.css.map",
+    "main.8f5299f6.js.map": "/sivakov-igor-portfolio/static/js/main.8f5299f6.js.map"
   },
   "entrypoints": [
-    "static/css/main.73c7bf8e.css",
-    "static/js/main.8181397c.js"
+    "static/css/main.89c1462c.css",
+    "static/js/main.8f5299f6.js"
   ]
 }
